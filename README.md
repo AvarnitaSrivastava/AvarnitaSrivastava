@@ -80,11 +80,6 @@ Aspiring Software Engineer with 3+ years of hands-on experience in full-stack de
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AvarnitaSrivastava&bg_color=00000000&color=000000&line=000000&point=1f2328&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Dev quote" />
-</p>
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/AvarnitaSrivastava">AvarnitaSrivastava</a></i></p>
